@@ -20,6 +20,7 @@ Here's what you'll build in this project:
 
 ![Screenshot](https://raw.githubusercontent.com/pluralsight-projects/HelloPluralsightProject/master/screenshot.png)
 
+
 ### Applications and Tools You'll Need To Complete This Project
 
 You'll need to have access to the following tools on your local machine to complete this project.
